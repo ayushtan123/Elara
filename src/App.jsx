@@ -72,7 +72,7 @@ function App() {
     <div className="app">
       <nav className="navbar">
         <div>
-          <img className="elaraL" src="elara1.png" alt="ELARA" /> 
+          <img className="elaraL" src="public\static\images\elara1.png" alt="ELARA" /> 
         </div>
         <h1 className="logoName">ELARA</h1>
       </nav>
@@ -118,7 +118,7 @@ function App() {
       </div>
       <footer className="footer">
         <div>Built using  <a href="https://gemini.google.com/">
-          <img src="Google_Gemini_logo.svg.png" alt="gemini" width="100px" height="40px" />
+          <img src="public\static\images\Google_Gemini_logo.svg.png" alt="gemini" width="100px" height="40px" />
         </a></div>
         <p>©️ All Rights Reserved {currentYear}</p>
         <p> Made by <a className="fname" href="https://github.com/ayushtan123">Ayush Tandon</a></p>
