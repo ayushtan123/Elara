@@ -9,7 +9,7 @@ Perfect for students, professionals, and lifelong learners, Elara makes complex 
 
 - **Frontend**: React.js
 - **Styling**: CSS (with a responsive design approach)
-- **Backend**: Axios for API requests
+- **Backend**: Node, Express, Axios for API requests
 - **API**: Gemini API
 - **Deployment**: Vercel ➡️ https://elara-ai.vercel.app
 
