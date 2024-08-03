@@ -1,6 +1,6 @@
 # <img src="https://github.com/ayushtan123/Elara/assets/121681555/48ced792-0748-4aa1-8e77-3d5aa7fcb2b0" alt="Elara" width="40" height="40"> ELARA - Elegant Learning And Resource Assistant 
 
-## Overview  
+## Overview 
 **Elara** is a cutting-edge web app that leverages the power of the **Gemini AI** to transform user questions into **neatly organized flashcards.** 🎴
 
 Perfect for students, professionals, and lifelong learners, Elara makes complex information easily digestible, enhancing study sessions, quick info retrieval and personal growth with its intuitive design and powerful functionality.
