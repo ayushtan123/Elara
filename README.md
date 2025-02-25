@@ -94,4 +94,4 @@ https://github.com/ayushtan123/Elara/assets/121681555/805166d0-56fc-4268-b491-ba
 Feel free to contribute to this project by opening issues or submitting pull requests. Any contributions, whether they be bug fixes, new features, or improvements to the documentation, are greatly appreciated.
 
 ## Future Work
- - Maiking the website more responsive (soon) 
+ - Make it responsive (will work soon)
