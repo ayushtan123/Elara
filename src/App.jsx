@@ -15,7 +15,7 @@ function App() {
     setAnswer(["Loading ...\n Please Wait"]);
     try {
       const response = await axios({
-        url: `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${
+        url: `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${
           import.meta.env.VITE_API_KEY}`,
         method: "post",
         data: {
